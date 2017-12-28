@@ -1,0 +1,26 @@
+{
+  "name": "@timkendrick/babel-preset-vscode",
+  "version": "0.0.1",
+  "description": "Babel preset for Visual Studio Code modules",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timkendrick/babel-preset-vscode.git"
+  },
+  "author": "Tim Kendrick <timkendrick@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timkendrick/babel-preset-vscode/issues"
+  },
+  "homepage": "https://github.com/timkendrick/babel-preset-vscode",
+  "devDependencies": {
+    "@timkendrick/eslint-config": "^1.0.0",
+    "eslint": "^4.0.0"
+  }
+}
